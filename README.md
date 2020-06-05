@@ -105,8 +105,7 @@ Você pode contribuir para o projeto de qualquer maneira. Seja instalado o aplic
             <br />
             </a><a title="Code">💻</a>
             </a><a title="Design">🎨</a>
-            <a href=" https://github.com/robsonsilv4/covid19_statistics">
- 
+            </a><a href=" https://github.com/robsonsilv4/covid19_statistics" title="Code">💻</a>
         </a>
     </td>
   <tr>
