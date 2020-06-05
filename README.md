@@ -98,14 +98,13 @@ Você pode contribuir para o projeto de qualquer maneira. Seja instalado o aplic
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/robsonsilv4">
+        <a href="https://github.com/robsonsilv4/covid19_statistics">
             <img src="https://avatars0.githubusercontent.com/u/17673296?s=460&u=7ca64208ca0fd4658b62aa1808daeec688640f94&v=4" width="100px;" alt=""/>
             <br />
-            <sub><b>Robson Silva</b></sub>
+            <sub><b>Robson Silva - Code</b></sub>
             <br />
             </a><a title="Code">💻</a>
             </a><a title="Design">🎨</a>
-            </a><a href=" https://github.com/robsonsilv4/covid19_statistics" title="Code">💻</a>
         </a>
     </td>
   <tr>
